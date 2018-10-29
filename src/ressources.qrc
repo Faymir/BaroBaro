@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/smiley">
+        <file alias="s0">smiley/smiley-0.png</file>
+        <file alias="s1">smiley/smiley-1.png</file>
+        <file alias="s2">smiley/smiley-2.png</file>
+        <file alias="s3">smiley/smiley-3.png</file>
+        <file alias="s4">smiley/smiley-4.png</file>
+        <file alias="s5">smiley/smiley-5.png</file>
+        <file alias="s6">smiley/smiley-6.png</file>
+        <file alias="s7">smiley/smiley-7.png</file>
+        <file alias="s8">smiley/smiley-8.png</file>
+        <file alias="s9">smiley/smiley-9.png</file>
+        <file alias="s10">smiley/smiley-10.png</file>
+        <file alias="s11">smiley/smiley-11.png</file>
+        <file alias="s12">smiley/smiley-12.png</file>
+        <file alias="s13">smiley/smiley-13.png</file>
+        <file alias="s14">smiley/smiley-14.png</file>
+    </qresource>
+    <qresource prefix="/mix">
+        <file alias="alert">mix/alert.wav</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="defAvatar">img/blank_avatar.png</file>
+        <file alias="logo">img/msg_icon.png</file>
+    </qresource>
+</RCC>
